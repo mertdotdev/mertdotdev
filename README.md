@@ -17,9 +17,9 @@ developer-tools engineer · efficiency obsessive · terminal native
 
 ## Current work
 
-🔭 **[agentxray](https://github.com/Mert7Eren/agentxray)** — X-ray for your AI agents. Reads agent session transcripts and shows where the time, tokens and money actually went: tool failures, cache efficiency, loop detection, cost per session.
+🔭 **[agentxray](https://github.com/mertdotdev/agentxray)** — X-ray for your AI agents. Reads agent session transcripts and shows where the time, tokens and money actually went: tool failures, cache efficiency, loop detection, cost per session.
 
-🔍 **[envdiff](https://github.com/Mert7Eren/envdiff)** — solves "works on my machine" in 30 seconds. Snapshots two dev environments, diffs them, ranks the differences by suspicion.
+🔍 **[envdiff](https://github.com/mertdotdev/envdiff)** — solves "works on my machine" in 30 seconds. Snapshots two dev environments, diffs them, ranks the differences by suspicion.
 
 ⚡ Next up: guardrails for AI agents, and a context layer that stops agents from re-reading your repo every session.
 
